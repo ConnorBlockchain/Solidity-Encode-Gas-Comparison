@@ -4,28 +4,28 @@ With Solidity V0.4.24 being relased, new encoders are avilable: abi.encodePacked
 
 
 ### Uint Comparison:
-![Uint](imgs/uint.jpg?raw=true)
+![Uint](imgs/uint.png?raw=true)
 
 
 ### String Comparison:
-![String](imgs/string.jpg?raw=true)
+![String](imgs/string.png?raw=true)
 
 
 ### Address Comparison:
-![Address](imgs/address.jpg?raw=true)
+![Address](imgs/address.png?raw=true)
 
 
 ### Bytes Comparison:
-![Bytes](imgs/bytes.jpg?raw=true)
+![Bytes](imgs/bytes.png?raw=true)
 
 
 ### Bytes32 Comparison:
-![Bytes32](imgs/bytes32.jpg?raw=true)
+![Bytes32](imgs/bytes32.png?raw=true)
 
 
 ### Bool Comparison:
-![Bool](imgs/bool.jpg?raw=true)
+![Bool](imgs/bool.png?raw=true)
 
 
 ### Int Comparison:
-![Int](imgs/int.jpg?raw=true)
+![Int](imgs/int.png?raw=true)
