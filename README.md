@@ -1,5 +1,5 @@
 # Solidity-Encode-Gas-Comparison
-With Solidity V0.4.24 being relased, new encoders are avilable: abi.encodePacked, abi.encode, abi.encodeWithSelecto & abi.encodeWithSignature.  Got a bit curious and wanted to see the gas costs associated for each encoding method, for uint, address, bytes, bytes32, bool & int variables.
+With Solidity [V0.4.24](https://github.com/ethereum/solidity/releases/tag/v0.4.24) being relased, [new encoders](http://solidity.readthedocs.io/en/v0.4.24/units-and-global-variables.html#abi-encoding-functions) are available: abi.encodePacked, abi.encode, abi.encodeWithSelecto & abi.encodeWithSignature.  Got a bit curious and wanted to see the gas costs associated for each encoding method, for uint, address, bytes, bytes32, bool & int variables.
 
 
 
